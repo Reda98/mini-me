@@ -2,7 +2,7 @@
 	background-image:url(../../images/live.jpg);
 	background-size: 100% auto;
 	color: orange;
-	padding: 32px 0px;
+	padding: 32px 0;
 	
 }
 
@@ -14,3 +14,4 @@
 	font-weight: lighter;
 	opacity: 0.8;
 	margin-bottom: 40px;
+}
